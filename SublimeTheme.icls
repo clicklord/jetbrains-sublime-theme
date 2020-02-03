@@ -1,9 +1,17 @@
 <scheme name="Sublime Theme" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-02-03T17:20:29</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2019.3.2.0.0</property>
+    <property name="modified">2020-02-03T17:20:37</property>
+    <property name="originalScheme">Sublime Theme</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="34352d" />
@@ -19,7 +27,7 @@
     <option name="SELECTION_BACKGROUND" value="606152" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="3c3f41" />
-    <option name="WHITESPACES" value="3b3a32" />
+    <option name="WHITESPACES" value="68675d" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -794,6 +802,12 @@
         <option name="BACKGROUND" value="273627" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="212121" />
+        <option name="BACKGROUND" value="b7b7b7" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
@@ -1490,7 +1504,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="272822" />
+        <option name="BACKGROUND" value="2e2f28" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
