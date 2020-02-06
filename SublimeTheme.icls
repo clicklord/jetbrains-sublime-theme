@@ -1,10 +1,10 @@
 <scheme name="Sublime Theme" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-02-03T17:20:29</property>
+    <property name="created">2020-02-06T10:23:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-02-03T17:20:37</property>
+    <property name="modified">2020-02-06T10:23:12</property>
     <property name="originalScheme">Sublime Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -27,7 +27,7 @@
     <option name="SELECTION_BACKGROUND" value="606152" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="3c3f41" />
-    <option name="WHITESPACES" value="68675d" />
+    <option name="WHITESPACES" value="727166" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -938,7 +938,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="e6db74" />
+        <option name="BACKGROUND" value="918e8b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1504,13 +1504,13 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="2e2f28" />
+        <option name="BACKGROUND" value="36372f" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="696e72" />
-        <option name="BACKGROUND" value="ffe792" />
+        <option name="BACKGROUND" value="bea65f" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
